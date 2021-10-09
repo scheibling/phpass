@@ -1,4 +1,5 @@
 ### This repository is a fork from the original [hautelook/phpass](https://github.com/hautelook/phpass) which seems to have been deleted on _2021-09-09_.
+### This repository is a fork of the original fork [bordoni/phpass](https://github.com/bordoni/phpass), somewhat modified
 
 
 Openwall Phpass, modernized
@@ -19,7 +20,7 @@ Add this requirement to your `composer.json` file and run `composer.phar install
 
     {
         "require": {
-            "bordoni/phpass": "dev-main"
+            "scheibling/phpass": "dev-main"
         }
     }
 
