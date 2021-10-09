@@ -32,6 +32,6 @@
     }
   },
   "replace": {
-    "hautelook/phpass": "0.3.*"
+    "hautelook/phpass": "*"
   }
 }
